@@ -1,0 +1,5 @@
+rustc 1.11.0-nightly (1ab87b65a 2016-07-02)
+rustc: ./html5ever-2015-05-15
+cargo rustc -- -Ztime-passes -Zinput-stats
+makefile:2: recipe for target 'all' failed
+done
